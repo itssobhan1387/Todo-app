@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 **TodoMaster** 🚀  
 📌 **A simple yet powerful Todo App to manage your daily tasks!**  
 ---
@@ -23,4 +21,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/TodoMaster.git
+   git clone https://github.com/itssobhan1387/Todo-app-get-things-done.git
