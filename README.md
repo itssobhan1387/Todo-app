@@ -21,4 +21,4 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/itssobhan1387/Todo-app-get-things-done.git
+   git clone https://github.com/itssobhan1387/Todo-app.git
